@@ -1,0 +1,6 @@
+
+D:\Dev_Drive\Coding Project Files\Uni_Assignment\UAS\36230035_IOT_UAS\greenhouse\src\hooks\use-greenhouse-data.ts
+  76:23  warning  'setIsLoading' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+✖ 1 problem (0 errors, 1 warning)
+
